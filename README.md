@@ -1,4 +1,4 @@
-# Employee Record Management
+#Syntecxhub Employee Record Management
 
 ## Description
 This Java project allows you to manage employee records including **ID, Name, and Salary**.  
